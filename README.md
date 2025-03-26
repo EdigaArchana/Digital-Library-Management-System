@@ -31,7 +31,9 @@ javac LibraryManagementSystem.java
 
 ### Run the Application
 After compiling, run the application with:
+```sh
 java LibraryManagementSystem
+```
 
 
 🛠 How to Use

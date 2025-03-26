@@ -20,7 +20,7 @@ Ensure you have:
 ```sh
 git clone https://github.com/EdigaArchana/Digital-Library-Management-System.git
 cd Digital-Library-Management-System
-```  <-- ✅ **This closing backtick is necessary!**  
+```   
 
 ### Compile the Java Files  
 Navigate to the project folder and compile the Java files:  

@@ -1,5 +1,3 @@
-
-
 # 📚 Digital Library Management System  
 
 A simple **Java-based** Digital Library Management System that allows librarians to **add, update, search, and delete** books.  
@@ -21,13 +19,15 @@ Ensure you have:
 ### Clone the Repository  
 ```sh
 git clone https://github.com/EdigaArchana/Digital-Library-Management-System.git
-cd Digital-Library-Management-System ```
+cd Digital-Library-Management-System
+```  <-- ✅ **This closing backtick is necessary!**  
 
 ### Compile the Java Files  
 Navigate to the project folder and compile the Java files:  
 
 ```sh
 javac LibraryManagementSystem.java
+```
 
 ### Run the Application
 After compiling, run the application with:
